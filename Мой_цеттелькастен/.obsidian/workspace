@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ef1477730ba95d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d51e8ab41a5936",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Опыт всему голова.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66d0a99fb321a8c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "610de37fa656a028",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5292cf8d9fe3656b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "806b17be94f30803",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361
+  },
+  "right": {
+    "id": "5af27aae13592a34",
+    "type": "split",
+    "children": [
+      {
+        "id": "99b2920f716700ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6163b8173a53937e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Опыт всему голова.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f9d51e8ab41a5936",
+  "lastOpenFiles": [
+    "Опыт всему голова.md",
+    "Моя социофобия.md",
+    "Страх высшего в иерархии.md",
+    "Страх делиться своими проблемами.md",
+    "Страх новой обстановки.md",
+    "Страх начала разговора.md",
+    "Страх, что я кому-то не понравлюсь.md",
+    "Навык. Начать разговор.md",
+    "Навык. Что-то просить.md",
+    "Опреление самооценки и уверенности в себе.md"
+  ]
+}
