@@ -18,74 +18,58 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "66d0a99fb321a8c5",
-    "type": "split",
+    "id": "73a506a38c35d01a",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "610de37fa656a028",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5292cf8d9fe3656b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "806b17be94f30803",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "821edf2eb2f52700",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "62d170f32634c47e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 361
+    "currentTab": 0
   },
   "right": {
-    "id": "5af27aae13592a34",
-    "type": "split",
+    "id": "b4cac4d00395de85",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "99b2920f716700ae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6163b8173a53937e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Опыт всему голова.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "37feb8cf55edfaaa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Опыт всему голова.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "f9d51e8ab41a5936",
   "lastOpenFiles": [
